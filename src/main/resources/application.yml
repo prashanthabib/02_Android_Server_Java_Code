@@ -1,0 +1,16 @@
+cloud:
+  aws:
+    credentials:
+      access-key: AKIAVG42YLN7JCLVHIBU
+      secret-key: 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
+    region:
+      static: ap-south-1
+    stack:
+      auto: false
+
+application:
+  bucket:
+    name: fala-app-images2
+
+server:
+  port: 9091
